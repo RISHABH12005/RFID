@@ -1,15 +1,11 @@
 # RFID (RC522)
 This project demonstrates how to interface an *RC522 RFID reader* with a RPi using Python. The RC522 communicates over *SPI*.
 
----
-
 ## Hardware Required
 - RPi 4B
 - RC522 RFID module
 - Jumper wires
 - RFID tags/cards
-
----
 
 ## GPIO (RFID → RPi GPIO)
 
@@ -30,8 +26,6 @@ This project demonstrates how to interface an *RC522 RFID reader* with a RPi usi
 - *Communication* : It can communicate with a microcontroller using the SPI protocol & also supports I2C & UART.
 - *Reading* : The RC522 module emits a radio signal via its antenna.
 - *Do not connect to 5V* The RC522 is a 3.3V device. 
-
----
 
 ## Setup on RPi
 ```bash
