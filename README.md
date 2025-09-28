@@ -28,7 +28,7 @@ This project demonstrates how to interface an *RC522 RFID reader* with a RPi usi
 
 ---
 
-## Enable SPI on Raspberry Pi
+## Setup on RPi
 ```bash
 sudo raspi-config
 # Go to: Interface Options → SPI → Enable
