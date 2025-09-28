@@ -24,7 +24,8 @@ This project demonstrates how to interface an *RC522 RFID reader* with a RPi usi
 | RST       | GPIO 25          |
 | 3.3V      | 3.3V             |
 
-*Do not connect to 5V* The RC522 is a 3.3V device.
+- *Do not connect to 5V* The RC522 is a 3.3V device.
+- *Frequency* : Operates at 13.56 MHz. 
 
 ---
 
