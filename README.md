@@ -24,8 +24,12 @@ This project demonstrates how to interface an *RC522 RFID reader* with a RPi usi
 | RST       | GPIO 25          |
 | 3.3V      | 3.3V             |
 
-- *Do not connect to 5V* The RC522 is a 3.3V device.
-- *Frequency* : Operates at 13.56 MHz. 
+## Features
+- *Chip* : It is based on the MFRC522 integrated circuit from NXP Semiconductors.
+- *Frequency* : Operates at 13.56 MHz.
+- *Communication* : It can communicate with a microcontroller using the SPI protocol & also supports I2C & UART.
+- *Reading* : The RC522 module emits a radio signal via its antenna.
+- *Do not connect to 5V* The RC522 is a 3.3V device. 
 
 ---
 
