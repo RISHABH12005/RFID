@@ -1,5 +1,5 @@
 # RFID (RC522)
-This project demonstrates how to interface an *RC522 RFID reader* with a RPi using Python. The RC522 communicates over *SPI (Serial Peripheral Interface)*.
+This project demonstrates how to interface an *RC522 RFID reader* with a RPi using Python. The RC522 communicates over *SPI*.
 
 ---
 
