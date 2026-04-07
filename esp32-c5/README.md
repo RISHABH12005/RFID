@@ -6,6 +6,6 @@
 | SCK | GPIO6 | J1 → 7 |
 | MOSI | GPIO7 | J1 → 8 |
 | MISO | GPIO2 | J1 → 3 |
-| RST | GPIO4 | J3 → 8 ⚠️ |
+| RST | GPIO4 | J3 → 8 |
 | GND | GND | J1 → 15 |
 | VCC | 3.3V | J1 → 1 |
