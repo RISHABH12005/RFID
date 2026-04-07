@@ -9,3 +9,11 @@
 | RST | GPIO4 | J3 → 8 |
 | GND | GND | J1 → 15 |
 | VCC | 3.3V | J1 → 1 |
+
+# Run Command
+```besh
+idf.py build
+```
+```besh
+idf.py flash monitor
+```
