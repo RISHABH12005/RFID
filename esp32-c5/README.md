@@ -8,7 +8,7 @@
 | MISO | GPIO2 | J1 → 3 |
 | RST | GPIO4 | J3 → 8 |
 | GND | GND | J1 → 15 |
-| VCC | 3.3V | J1 → 1 |
+| VCC | 5V | J1 → 14 |
 
 # Run Command
 ```besh
